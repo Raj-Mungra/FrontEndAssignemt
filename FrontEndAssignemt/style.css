@@ -1,0 +1,25 @@
+h2 {
+    font-family: 'Maven Pro', Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: #66c;
+    text-align: left;
+    margin: 10px;
+}
+
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
+.navbar { text-align: center; }
+.navbar-nav li {list-style: none; display: inline-block; }
+.navbar a {color: #3297FD; display: block; font-family:arial; text-transform: uppercase; font-weight: bold; margin: 0; padding: 9px 18px 9px; text-decoration: none; }
+.navbar a:hover {background-color: #2D89E5; color: #fff; }
+
+
